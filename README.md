@@ -18,7 +18,7 @@ This repository contains the source code for the Fetch Rewards Coding Exercise f
 
 ## Installation
 
-1. Clone the repository in any IDE for android development:
+Clone the repository in any IDE for android development:
 
 ```sh
 git clone https://github.com/sbhand22/Home-Test-from-Fetch.git
